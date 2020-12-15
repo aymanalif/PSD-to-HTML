@@ -1,0 +1,61 @@
+@media all and (max-width: 947px) {
+
+    .search-area .moda {
+        padding: 10px 4px;
+    }
+}
+
+@media all and (max-width: 768px) {
+
+    .work-item {
+        width: 75.333%;
+        height: 329px;
+        float: none;
+        margin: 20px auto;
+    }
+
+    .service-item {
+        width: 59.33%;
+        float: none;
+        margin: 15px auto;
+    }
+
+}
+
+@media all and (max-width: 648px) {
+
+    .work .menu-list li {
+        display: block;
+        margin: 27px;
+    }
+    .work .menu-list li a {
+        width: 146px;
+        display: block;
+        margin: auto;
+    }
+
+}
+
+
+@media all and (max-width: 472px) {
+
+    .logo-area img {
+        padding: 35px 6px;
+        width: 92px;
+    }
+
+}
+
+@media all and (max-width: 418px) {
+
+    .logo-area img {
+        padding: 35px 6px;
+        width: 92px;
+    }
+
+    .header-caption h1 {
+        font-size: 35px;
+        color: #fff;
+    }
+
+}
